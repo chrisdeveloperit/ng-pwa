@@ -1,0 +1,19 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+body {
+    background: #ddd;
+    font-family: 'Droid Serif', serif;
+    text-align: center;
+}
+h1, h2 { text-align: center;}
+.divShowClock { text-align: center; padding: 1.5em;}
+.divShowClock button{ 
+    width: 120px; 
+    padding: 1em 0.5em; 
+    background-color: #4478e0; 
+    color: #fff;
+    font-weight: bold;
+    border-radius:4px;
+}
